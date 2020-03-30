@@ -1,4 +1,4 @@
-## t-rex-runner
+## 小恐龙游戏
 
 the trex runner game extracted from chrome offline err page.
 
@@ -9,7 +9,7 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 ![chrome offline game cast](assets/screenshot.gif)
 
-## Interesting Forks/In Chinese, we call it 「花样玩法」
+## 「花样玩法」
 
 - [vianroyal](https://github.com/vianroyal)/[t-rex-runner](https://github.com/vianroyal/t-rex-runner) [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
 <br>
